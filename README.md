@@ -20,7 +20,7 @@ During this build, I focused on bridging the gap between design theory and frame
 
 - **Challenge:** Understanding the nesting logic between the 12-column grid and flex containers.
 
-- **Solution:** I utilized Low-Fidelity Wireframing (manual sketching) to map out the DOM structure before coding. This reduced layout errors by 40% and simplified the implementation of complex rows.
+- **Solution:** I utilized **Low-Fidelity Wireframing** (manual sketching) to map out the DOM structure before coding. This reduced layout errors by 40% and simplified the implementation of complex rows.
 
 ## 2. The Shift to Framework Constraints
 
@@ -46,4 +46,4 @@ During this build, I focused on bridging the gap between design theory and frame
 
 ## 📈 Final Outcome
 
-This project successfully demonstrates my ability to build professional, production-ready layouts in significantly reduced timelines. It serves as a foundational piece in my journey toward DevOps and Cloud Architecture, showcasing my understanding of front-end standards and automation.
+This project successfully demonstrates my ability to build professional, production-ready layouts in significantly reduced timelines. It serves as a foundational piece in my journey toward **DevOps and Cloud Architecture**, showcasing my understanding of front-end standards and automation.
