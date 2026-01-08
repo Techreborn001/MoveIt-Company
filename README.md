@@ -1,8 +1,8 @@
-#MoveIt Company 🚚
+## MoveIt Company 🚚
 
-A high-performance, responsive landing page designed to demonstrate advanced UI/UX implementation using the Bootstrap 5 framework. This project documents the architectural shift from manual styling to efficient component-based development.
+A high-performance, responsive landing page designed to demonstrate advanced UI/UX implementation using the **Bootstrap 5 framework**. This project documents the architectural shift from manual styling to efficient component-based development.
 
-🚀 Key Learning Objectives
+## 🚀 Key Learning Objectives
 
 During this build, I focused on bridging the gap between design theory and framework execution:
 
