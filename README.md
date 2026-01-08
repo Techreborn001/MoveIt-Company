@@ -32,7 +32,7 @@ During this build, I focused on bridging the gap between design theory and frame
 
 - **Challenge:** Debugging non-functional components caused by script placement errors.
 
-- **Solution:** Standardized the deployment workflow to ensure CSS is parsed in the *<head>* while JS bundles are deferred to the end of the *<body>*, preventing render-blocking issues.
+- **Solution:** Standardized the deployment workflow to ensure CSS is parsed in the *head* while JS bundles are deferred to the end of the *body*, preventing render-blocking issues.
 
 ## 🛠 Tech Stack
 
